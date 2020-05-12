@@ -1,0 +1,292 @@
+body{
+    width: 50%;
+    height: 750px;
+    margin: auto;
+}
+
+.image{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.titre{
+    background-color:rgb(26, 16, 32);
+    height:8%;
+   
+   
+}
+.slogan{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size:xx-large ;
+    color: honeydew;
+    margin-top: 2%;
+    float: right;
+    margin-right: 35%;
+
+}
+.cadre{
+    border: solid;
+    width: 100%;
+    height: 73%;
+    margin: auto;
+    background-image:url(image/img-bg.jpg) ;
+    background-repeat: no-repeat;
+   
+}
+.titre2{
+
+    position: relative;
+     margin: auto;
+     width: 95%;
+     height: 15%;
+     background-color: #3ebedf;
+     margin-top: 1%;
+   
+
+}
+
+ h2 {
+    margin-top: 4%;
+    position: absolute;
+    margin-left: 15%;
+    text-align: center;
+     font-size:medium;
+     color: white;
+     font-family: 'Open Sans', sans-serif;
+    
+}
+h1{
+    text-align: center;
+}
+
+
+.menu{
+    position: relative;
+    background-color: whitesmoke;
+    width: 95%;
+    height: 80%;
+    margin: auto;
+    margin-top:0%;  
+}
+.reponse{
+    position: absolute;
+    background-color:white;
+    border-radius: 5% ;
+    width: 95%;
+    height: 95%;
+    margin:2%;
+    margin-top:1%;  
+}
+
+.choix{
+    position: absolute;
+    background-color:white;
+    border-radius:  5%   ;
+    border: 1px solid rgb(0, 225, 255);
+    width: 70%;
+    height: 90%;
+    margin:3%;
+    margin-top:2%;  
+}
+.top-score{
+    position: absolute;
+    background-color:white;
+    font-family: "Sans Cherif" ;
+    font-size: x-small;
+    box-shadow:  0px 0px 6px 0px  #818181 ;
+    border-radius: 5px;
+    text-indent: 15px;
+    line-height: 25px;
+    font-weight: bold;
+    height: 16em;
+    margin: -20px 15px 0  10px;   
+    text-align: left; 
+    width: 20%;
+    height: 80%;
+    margin:75%;
+    margin-top:2%;  
+}
+.top{
+    float: right;
+    margin-right: 22%;
+    margin-top: auto;
+    
+    color:  #222121;
+}
+.meilleur{
+    width: 10%;
+    height: 5%;
+    margin-top:-5%;
+    position: absolute;
+    float: left;
+    margin-left: 90%;
+    font-size: xx-small;
+    background-color: rgba(255, 255, 255, 0.514);
+    color: #3addd6; 
+    
+}
+.color1{
+    border-bottom: 4px solid  #51bfd0 ;
+}
+.color2{
+    border-bottom: 4px solid  #3addd6 ;
+}
+.color3{
+    border-bottom: 4px solid  #cddd3a ;
+}
+.color4{
+    border-bottom: 4px solid  #dd963a ;
+}
+.color5{
+    border-bottom: 4px solid  #818181 ;
+}
+.nbredequestions{
+    position: absolute;
+    background-color:whitesmoke;
+   
+    width: 93%;
+    height: 30%;
+    margin:4%;
+    margin-top:2%;  
+}
+h1 {
+    font-size: x-large;
+    margin-left: 1%;
+    text-align: center;
+     color:black;
+     font-family: 'Open Sans', sans-serif;
+    
+}
+.trai {
+    margin-top:-5%;
+    width: 36%;
+    height: 2%;
+    float: left;
+    margin-left: 32.5%;
+    background-color: rgb(107, 97, 97);
+    
+    
+}
+p {
+    margin-top: -3%;
+    font-size: large;
+    margin-left: 1%;
+    text-align: center;
+     color:black;
+     font-family: 'Open Sans', sans-serif;
+    
+}
+.point{
+    position: absolute;
+    background-color:whitesmoke;
+   
+    width: 13%;
+    height: 10%;
+    margin:84%;
+    margin-top:32%;  
+}
+
+.p {
+    position: ;
+    margin-top: 12%;
+    font-size: x-large;
+    margin-left: 1%;
+    text-align: center;
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+.case {
+    
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 52%;
+    float: left;
+    margin-left: 15%;
+    
+    
+    
+}
+.lesboutons
+{
+    margin-top: 36%;
+
+}
+
+  .bouton1 input
+{
+    width: 94%;
+    height: 35px;
+    font-size: large;
+    float: right;
+    margin-right:-245%;
+   
+    background-color:rgb(93, 232, 236);;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+   
+
+}
+
+.boutons input
+{
+    width: 94%;
+    height: 35px;
+    float: left;
+    margin-left:-50%;
+    font-size: large;
+    background-color:gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+   
+
+}
+.bouton{
+    
+  
+  position: relative;
+  float: right;
+  margin-right: -0%;
+  margin-top: 4%;
+ 
+  
+   
+}
+.bouton input
+{
+    width: 94%;
+   
+    background-color:rgb(93, 232, 236);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+   
+
+}
+
+.recupnm{
+    
+    position: absolute;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10.5%;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.input[type=checkbox]
+{
+    border: rgb(89, 222, 231);
+
+}
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+</style>

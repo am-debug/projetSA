@@ -1,0 +1,188 @@
+.titre2{
+    width: 95%;
+    height:13%;
+    margin: auto;
+    background-color:rgb(114, 190, 235);
+    margin-top: 1%;
+   
+}
+.question{
+    font-family: 'Open Sans', sans-serif;
+    font-size:large ;
+    color: honeydew;
+    margin-top: 2%;
+    float: left;
+    margin-left: 19%;
+}
+.button{
+    width: 15%;
+    height: 45%;
+    background-color: rgb(114, 190, 235);
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+
+}
+.menuadmin{
+    background-color: whitesmoke;
+    width: 95%;
+    height: 85%;
+    margin: auto;
+}
+.menu{
+    position: absolute;
+    float: left;
+    margin-left:1%;
+    background-color:  rgb(114, 190, 235);
+    width: 20%;
+    height: 20%;
+    margin-top: 3%;
+
+}
+.recup{
+    
+    position: absolute;
+    float: left;
+    margin-left: 52%;
+    margin-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.menu1{
+   
+    background-color:white;
+    position: absolute;
+    float: left;
+    margin-left:1%;
+    width: 20%;
+    height: 38%;
+    margin-top:12.70%;
+}
+.container{
+    float: left;
+    margin-left:5%;
+}
+.im{
+    float: right;
+    margin-right: -130%;
+    width: 20%;
+    height: 50%;
+    margin-top: -30%;
+}
+.section-droite{
+    border-radius: 5px;
+    width: 53%;
+    height: 93%;
+    margin: 0 auto;
+    margin-right: 2%;
+    float: right;
+    margin-top: 2%;
+    
+    background-color: white;
+    }
+    
+    .login-form{
+        margin-left: 20px;
+        margin-top: 5%;
+    }
+    .login-form h2{
+       
+        margin: 5px auto;
+        font-family: 'Open Sans', sans-serif;
+        color: black;
+    }
+    .formulaire{
+        height: 90%;
+    }
+    .gauche{
+        width: 60%;
+        float: left;
+        margin-left: 20px;
+    }
+    .droite{
+        width: 40%;
+        float: right;
+        position: relative;
+        top: -35rem;
+    }
+    .texbox{
+        margin: 0 auto;
+        padding: 5px;
+        width: 100%;
+    }
+    .texbox input{
+        
+        border-radius: 5px;
+        border: solid 2px #3ebedf;
+        background-color: rgb(233, 233, 233);
+        color: gray;
+        font-weight: bold;
+        width: 80%;
+    }
+    .btn1, .btn2{
+        
+        width: 100%;
+    }
+    .btn1 input{
+        width: 53%;
+        color: white;
+        background-color: #3ebedf;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        padding: 3px 10px 3px 10px;
+        margin: 0;
+        margin-left: 45%;
+        margin-top: 4%;
+    }
+    .btn2 input{
+        width: 62%;
+        color: white;
+        background-color: #3ebedf;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        padding: 13px;
+        margin-left: 30%;
+        margin-top: 4%;
+    }
+    hr{
+        width: 55%;
+        margin: 0;
+    }
+    .avatar {
+        vertical-align: middle;
+        width: 200px;
+        height: 200px;
+        border-radius: 10%;
+        margin-left: 25%;
+        
+      }
+      .droite {
+          
+          margin-top: 70%;
+      }
+      .gauche-sec div{
+        width: 100%;
+        margin: 0 auto;
+        background-color: antiquewhite;
+    }
+    .h2{
+     float: left;
+     width: 70%;
+     margin: 0 auto;
+     padding: 5px;
+     margin-top: 10%;
+    }
+    .gauche-sec img{
+        float: right;
+        margin-top: 50px;
+        
+    }
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+</style>s

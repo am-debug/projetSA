@@ -1,0 +1,109 @@
+body{
+    width: 50%;
+    height: 750px;
+    margin: auto;
+}
+
+.image{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.titre{
+    background-color:rgb(26, 16, 32);
+    height:8%;
+   
+   
+}
+.slogan{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size:xx-large ;
+    color: honeydew;
+    margin-top: 2%;
+    float: right;
+    margin-right: 35%;
+
+}
+.cadre{
+    border: solid;
+    width: 100%;
+    height: 73%;
+    margin: auto;
+    background-image:url(image/img-bg.jpg) ;
+    background-repeat: no-repeat;
+   
+}
+.bleu{
+    width: 100%;
+    height: 20%;
+    background-color: #3ebedf;
+    margin: auto;
+
+}
+
+ h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.identification{
+    background-color: white;
+    width: 50%;
+    height: 60%;
+    margin: auto;
+    margin-top: 20%;  
+}
+.login, .password{
+    
+    width: 90%;
+    height: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login{
+    background-position: 38ch;
+    background-image: url(image/ic-login.png) ;
+    background-repeat: no-repeat;
+     
+    
+}
+.password{
+    background-position: 38ch;
+    background-image: url(image/ic-password.png) ;
+    background-repeat: no-repeat;   
+   
+}
+
+.bouton{
+   
+    padding: 10px;
+   
+}
+.bouton input
+{
+    width: 30%;
+    background-color: #3ebedf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 15px;
+
+}
+.bouton a{
+    text-decoration: none;
+    text-align: center;
+    color: gray;
+    font-weight: bold;
+    margin: 20px;
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+</style>

@@ -1,0 +1,150 @@
+[
+    {
+        "nom": "lo",
+        "prenom": "aminata",
+        "login": "admin",
+        "password": "passer",
+        "role": "admin",
+        "img": "avatar.png"
+    },
+    {
+        "nom": "lo",
+        "prenom": "amina",
+        "login": "amina@gmail.com",
+        "password": "amina95",
+        "role": "joueur",
+        "img": "avatar.png"
+    },
+    {
+        "nom": "Kine",
+        "prenom": "Mbaye",
+        "login": "kine@gmail.com",
+        "password": "123",
+        "role": "joueur",
+        "img": "avatar.png"
+    },
+    {
+        "nom": "Diouf",
+        "prenom": "Laye",
+        "login": "layeeee",
+        "password": "12",
+        "role": "joueur"
+    },
+    {
+        "nom": "Niang",
+        "prenom": "Aly",
+        "login": "ffhgn",
+        "password": "12",
+        "role": "joueur",
+        "img": "avatar.png"
+    },
+    {
+        "nom": "Lo",
+        "prenom": "Fallou",
+        "login": "faloooouuuu",
+        "password": "13",
+        "role": "joueur",
+        "img": "5.PNG"
+    },
+    {
+        "nom": "Aliou",
+        "prenom": "Sow",
+        "login": "aliouu",
+        "password": "12",
+        "role": "joueur",
+        "img": "vingette-8.png"
+    },
+    {
+        "nom": "Fall",
+        "prenom": "Pape",
+        "login": "papii",
+        "password": "45",
+        "role": "joueur",
+        "img": "chat.jpg"
+    },
+    {
+        "nom": "Fall",
+        "prenom": "Djybril",
+        "login": "djibyy",
+        "password": "67",
+        "role": "joueur",
+        "img": "6.PNG"
+    },
+    {
+        "nom": "Diop",
+        "prenom": "Dada",
+        "login": "dadush",
+        "password": "34",
+        "role": "joueur",
+        "img": "Cap2.png"
+    },
+    {
+        "nom": "Ndiaye",
+        "prenom": "Fatou",
+        "login": "fa@gmail.com",
+        "password": "11",
+        "role": "admin"
+    },
+    {
+        "nom": "Seck",
+        "prenom": "Boba",
+        "login": "buba",
+        "password": "12",
+        "role": "admin"
+    },
+    {
+        "nom": "Gueye",
+        "prenom": "Nina",
+        "login": "admin",
+        "password": "11",
+        "role": "admin"
+    },
+    {
+        "nom": "Sa",
+        "prenom": "Li",
+        "login": "admin",
+        "password": "q",
+        "role": "joueur",
+        "img": "vingette-8.png"
+    },
+    {
+        "nom": "Lo",
+        "prenom": "Yu",
+        "login": "admin",
+        "password": "q",
+        "role": "joueur",
+        "img": "vingette-8.png"
+    },
+    {
+        "nom": "Aki",
+        "prenom": "Lk",
+        "login": "admin",
+        "password": "w",
+        "role": "joueur",
+        "img": "Cap1.png"
+    },
+    {
+        "nom": "Amina",
+        "prenom": "Lo",
+        "login": "admin",
+        "password": "q",
+        "role": "joueur",
+        "img": "avatar.png"
+    },
+    {
+        "nom": "Mami",
+        "prenom": "Ki",
+        "login": "admin",
+        "password": "q",
+        "role": "joueur",
+        "img": "vingette-8.png"
+    },
+    {
+        "nom": "Ka",
+        "prenom": "Wali",
+        "login": "admin",
+        "password": "q",
+        "role": "joueur",
+        "img": "vingette-8.png"
+    }
+]
